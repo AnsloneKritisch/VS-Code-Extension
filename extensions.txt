@@ -1,0 +1,29 @@
+Programming Package
+--------------------
+c/c++
+c/c++ Extension Pack
+CMake
+Code Runner
+Java
+Live Preview
+Live Server 
+Maven for Java
+XML toolkit
+xml to JSON
+vscode-pets
+Tabnine
+Simple React Snippets
+React Native Tools
+Rapid API
+Python
+Pylance
+
+Themes
+--------
+
+Winter is Coming
+Tokyo Night
+Sweet Dracula
+
+
+
